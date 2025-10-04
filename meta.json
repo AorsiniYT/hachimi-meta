@@ -1,13 +1,13 @@
 [
     {
-        "name": "English (UmaTL)",
-        "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json",
-        "short_desc": "Translates all parts, lore & accuracy focus. Terms might change sometimes and not match community. Source: Original, GameTora, Community. Contributors: noccu (+ maintainer), LotoDS, CatNipHoarder + Holo, Chiwawa, Kasey, … (tinyurl.com/UmaTLCredits)"
-    },
-    {
         "name": "Español (UmaTL)",
         "index": "https://raw.githubusercontent.com/AorsiniYT/hachimi-tl-es/release/index.json",
         "short_desc": "Traduce todas las partes, la tradición y el enfoque de precisión. Los términos pueden cambiar a veces y no coincidir con la comunidad. Fuente: Original, GameTora, Comunidad. Colaboradores: noccu (+ mantenedor), LotoDS, CatNipHoarder + Holo, Chiwawa, Kasey,… (tinyurl.com/UmaTLCredits)"
+    },
+    {
+        "name": "English (UmaTL)",
+        "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json",
+        "short_desc": "Translates all parts, lore & accuracy focus. Terms might change sometimes and not match community. Source: Original, GameTora, Community. Contributors: noccu (+ maintainer), LotoDS, CatNipHoarder + Holo, Chiwawa, Kasey, … (tinyurl.com/UmaTLCredits)"
     },
     {
         "name": "English (UmaTL, Skill Data)",
