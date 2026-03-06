@@ -1,6 +1,6 @@
 [
     {
-        "name": "Español (UmaTL)",
+        "name": "Español (Patch ES)",
         "index": "https://raw.githubusercontent.com/AorsiniYT/hachimi-tl-es/release/index.json",
         "short_desc": "Traduce todo el juego al español, canciones, y historia, menos las texturas (por ahora) Contribuidor: AorsiniYT, Corrector de estilo: Mau2003",
         "region": "Global"
